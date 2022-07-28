@@ -1,0 +1,6 @@
+ 1 Coffee 3.75 15
+ 2 Tea 1.5 0
+ 3 Biscuit 2.5 20
+ 4 Sugar 5 5
+ 5 Milk 1.25 0
+ 6 Cookie 2.25 10
